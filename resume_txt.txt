@@ -1,0 +1,72 @@
+CORINA FLORESCU
+ 
+Phone: +1(682)-429-6123
+Email: corinaaflorescu@gmail.com 
+ 
+ 
+F210 Discovery Park
+Department of Computer Science and Engineering
+University of North Texas
+Denton, TX, 76203, USA
+
+
+ OVERVIEW
+•	Motivated Ph.D. student seeks an internship to gain industrial experience in fields like machine learning, information retrieval, natural language processing and artificial intelligence
+•	Experience in Machine Learning, Information Retrieval and Natural Language Processing research projects
+•	Proficient in JAVA, C++ and SQL
+
+
+TECHNICAL SKILLS
+
+•	Programming languages: Java, C++, MySQL, PL/SQL, MATLAB, Python, PHP, CSS, HTML
+•	Frameworks and Tools: Weka, WordNet, Hadoop, Mallet, Eclipse, NetBeans, Sublime
+
+
+PROFESSIONAL EXPERIENCE
+Research Assistant 								January 2015 – present
+Machine Learning Group Lab, University of North Texas, Texas, USA. Advisor: Dr. Cornelia Caragea
+
+Unsupervised keyphrase extraction
+•	Used position and topic biased random walks to extract more comprehensive keyphrases for a document;
+•	Developed a new compositional scheme to score multi word phrases which shows increase in the performance of keyphrase extraction up to 70% compared to state-of-the-art approaches
+
+Supervised document classification
+•	Used information accumulated in a document network and embedded it in a co-training framework to improve the topic classification task
+•	Showed improvements over the early and late fusion of classifiers
+
+Computer Science Teacher 					         September 2008 - September 2012
+“I. L. Caragiale” High School, Bucharest, Romania.
+
+•	Taught programming languages (C++, SQL, PL/SQL, PHP) 
+•	Taught information technology (Windows, Microsoft Office)
+
+
+
+EDUCATION
+
+•	Ph.D. - Computer Science 						  January 2015 - present
+University of North Texas, Denton, Texas, USA. Advisor: Dr. Cornelia Caragea
+Machine Learning, Information Retrieval, Artificial Intelligence, Natural Language Processing
+GPA: 4.0
+•	M.S. – Computer Science							     2008 – 2010
+University of Bucharest, Bucharest, Romania. Advisor: Dr. Horia Georgescu  
+•	B.S. – Computer Science and Mathematics					    2004 – 2008
+University of Bucharest, Bucharest, Romania.
+
+ACHIEVEMENTS AND AWARDS
+•	Travel Grant from Women in Machine Learning, 2016
+•	Toulouse Graduate School(TGS) Tuition Benefit Scholarship
+•	Ph.D. support (GF1703)
+
+PUBLICATIONS 
+•	Corina Florescu, Cornelia Caragea. “An unsupervised algorithm for keyphrase extraction”. In Women in Machine Learning Workshop (WiML), co-located with The 30th Annual Conference on Neural Information Processing Systems (NIPS), Barcelona, Spain 2016.
+
+CERTIFICATIONS
+•	Oracle Academy:  Database Design and Programming with SQL, 2009
+•	Oracle Academy:  Database Programming with PL/SQL, 2010
+•	Cisco Networking Academy: CCNA Exploration: Network Fundamentals, 2011
+
+
+
+
+
