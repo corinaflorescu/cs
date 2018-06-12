@@ -55,10 +55,20 @@
         such as classification, searching, clustering or context advertisement. Due to their importance, 
         many approaches to keyphrase extraction have been proposed in the literature along two lines of research: 
         supervised and unsupervised. </p>
-		<p align="justify"> <I>Project</I>. Intuitively, keyphrases occur at positions very close to the beginning of a document 
+			
+		<p align="justify"> <I>Keyphrase Extraction from Scholarly Documents</I>. Intuitively, keyphrases occur at positions very close to the beginning of a document 
         and they occur frequently. Consider the previous paragraph as an example. One representative phrase is ``keyphrase extraction.'' 
-        Notice that the phrase occurs very early (even from the project's title) and occurs frequently. Based on these observations, 
-        we investigate unsupervised approaches that model the entire distribution of positions for a word. </p>
+        Notice that the phrase occurs very early (even from the title) and occurs frequently. Based on these observations, 
+        we investigate unsupervised approaches that model the entire distribution of positions for a word. To our knowledge, the
+	position information has not been used before in unsupervised methods.</p>
+		
+		<p align="justify"> <I>Learning Feature Representation for Keyphrase Extraction</I>. In  the  supervised  line  of  research,  KE  is  formulated as a classification problem, where candidate phrases are classified as either positive (i.e.,
+keyphrases)  or  negative  (i.e.,   non-keyphrases). Specifically, each  candidate  phrase  is  encoded with a set of features such as its
+tf-idf, position in the document or part-of-speech tag, and annotated documents  with  “correct”  keyphrases  are  used to  train  classifiers  for  discriminating  keyphrases
+from  non-keyphrases. Although  these  features have shown to work well in practice, many of them are computed based on observations and statistical
+information collected from the training documents which may be less suited outside of that domain. Feature  learning  or  representation  learning  is
+a  set  of  techniques  that  allows  a  system  to  automatically  discover  characteristics  that  explain
+some structure underlying the data. In this project, we investigate feature learning techiniques to automatically learn feature representations that can be used for the keyphrase extraction task.</p>
 		
 		</ol>
 		</p>
