@@ -33,7 +33,6 @@ search, retrieval, and recommendation of scientific documents.
 to their degree of representing the topic of a target document.
 Computer Science Teacher September 2008 - October 2012
 I. L. Caragiale High School, Bucharest, Romania.
-· Worked in a team of six people and came up with a model of Dragon with movable wings
 · Taught programming languages (C++, SQL, PL/SQL, PHP)
 · Designed lecture plans
 · Evaluated students performance
