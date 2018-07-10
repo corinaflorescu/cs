@@ -1,83 +1,64 @@
 CORINA FLORESCU
- 
-Phone: +1(682)-429-6123
-Email: corinaaflorescu@gmail.com 
- 
- 
-F210 Discovery Park
-Department of Computer Science and Engineering
-University of North Texas
-Denton, TX, 76203, USA
+University of North Texas, Denton, Texas
+(+1)682-429-6123  CorinaFlorescu@my.unt.edu
 
-
- OVERVIEW
- 
-•	Experience in Machine Learning, Natural Language Processing and Information Retrieval research projects
-•	Proficient in Python, JAVA, and SQL
-
-
-TECHNICAL SKILLS
-
-•	Programming languages: Python, Java, C++, MySQL, MATLAB
-•	Frameworks and Tools: TensorFlow, Keras, Weka, Hadoop 
-
-
-PROFESSIONAL EXPERIENCE
-• Research Assistant 								January 2015 – 2017
-  Machine Learning Group Lab, University of North Texas, Texas, USA.
-
-• Research Assistant 								January 2017 – present
-  Text Mining Lab, University of North Texas, Texas, USA.
-
-Supervised keyphrase extraction
-•	Investigated feature learning techniques to automatically discover feature representations of phrases that can be used for the         task of keyphrase extraction
-•	Propose  a  framework that represents a document as a word graph and automatically learns feature representations of
-phrases by exploring the connectivity patterns observed in the network.
-
-Unsupervised keyphrase extraction
-•	Used position and topic biased random walks to extract more comprehensive keyphrases for a document;
-•	Developed a new compositional scheme to score multi word phrases which shows increase in the performance of keyphrase extraction up to 70% compared to state-of-the-art approaches
-
-
-Computer Science Teacher 					         September 2008 - September 2012
-“I. L. Caragiale” High School, Bucharest, Romania.
-
-•	Taught programming languages (C++, SQL, PL/SQL, PHP) 
-•	Taught information technology (Windows, Microsoft Office)
-
+SUMMARY
+Research scientist with 4+ years of academic experience. I work in an area between machine learning,
+natural language processing and text-mining. My research concerns the development of new methods
+to identify short phrases in the text of a document such that those phrases best capture the topics
+of the target document. I have developed several methods which benefits the indexing in scholarly. I
+am well connected in the academic community and have been presenting my work/tutorials to various
+natural language processing and data mining conferences.
 
 EDUCATION
+Doctor of Philosophy, Computer Science January 2015 - Present
+University of North Texas, Denton, Texas
+Master of Science, Databases 2008 - 2010
+University of Bucharest, Bucharest, Romania
+Bachelor of Science, Computer Science and Mathematics 2004 - 2008
+University of Bucharest, Bucharest, Romania
 
-•	Ph.D. - Computer Science 						  January 2015 - present
-University of North Texas, Denton, Texas, USA. 
-Machine Learning, Information Retrieval, Artificial Intelligence, Natural Language Processing
-GPA: 4.0
-•	M.S. – Computer Science							     2008 – 2010
-University of Bucharest, Bucharest, Romania. 
-•	B.S. – Computer Science and Mathematics					    2004 – 2008
-University of Bucharest, Bucharest, Romania.
+TECHNICAL STRENGTHS
+Programming Languages Python, Java, LaTeX, C++, MySQL, MATLAB
+Software & Tools TensorFlow, Keras, Weka, Hadoop
 
+EXPERIENCE
+Research Assistant January 2015 - Present
+University of North Texas, Denton, Texas
+· Developed keyphrase extraction systems for extracting keyphrases from scholarly documents; This extraction task aids indexing of documents in digital libraries, and hence, leads to improved organization,
+search, retrieval, and recommendation of scientific documents.
+· Developed a feature learning framework for automatically discover patterns that keyphrases express.
+· Developed a domain-independent supervised keyphrase extraction systems based on the learned representations.
+· Developed a ranking model to keyphrase extraction, such that the model can rank keyphrases according
+to their degree of representing the topic of a target document.
+Computer Science Teacher September 2008 - October 2012
+I. L. Caragiale High School, Bucharest, Romania.
+· Worked in a team of six people and came up with a model of Dragon with movable wings
+· Taught programming languages (C++, SQL, PL/SQL, PHP)
+· Designed lecture plans
+· Evaluated students performance
 
-ACHIEVEMENTS AND AWARDS
-•	Scholarship from American Association for Artificial Intelligence
-•	Travel Grant from Women in Machine Learning
-•	Toulouse Graduate School(TGS) Tuition Benefit Scholarship
+SELECTED PUBLICATIONS
+Wei Jin, Corina Florescu. Improving Search and Retrieval in Digital Libraries by Leveraging Keyphrase
+Extraction Systems. In: Proceedings of the Joint Conference on Digital Libraries (JCDL 2018).
+Corina Florescu, Wei Jin. Learning Feature Representations for Keyphrase Extraction. In: Proceedings
+of the American Association for Artificial Intelligence (AAAI 2018).
+Corina Florescu, Cornelia Caragea. PositionRank: An Unsupervised Approach to Keyphrase Extraction
+from Scholarly Documents. In: Proceedings of the Annual Meeting of the Association for Computational
+Linguistics (ACL 2017).
+Corina Florescu, Cornelia Caragea. A Position-Biased PageRank Algorithm for Keyphrase Extraction.
+In: Proceedings of the American Association for Artificial Intelligence (AAAI 2017).
 
+FELLOWSHIPS & GRANTS
+Scholarship from American Association for Artificial Intelligence
+Travel Grant from Women in Machine Learning
+Toulouse Graduate School(TGS) Tuition Benefit Scholarship
 
-PUBLICATIONS 
-• Wei Jin, Corina Florescu. “Improving Search and Retrieval in Digital Libraries by Leveraging Keyphrase Extraction Systems.” In: Proceedings of the Joint Conference on Digital Libraries (JCDL 2018).
+ACADEMIC SERVICE
+Manuscript peer review, Natural Language Engineering Journal
+Manuscript peer review, Transactions on Knowledge Discovery from Data
+Manuscript peer review, Language Resources and Evaluation
 
-• Corina Florescu, Wei Jin. “Learning Feature Representations for Keyphrase Extraction.” In: Proceedings of the 32nd American Association for Artificial Intelligence (AAAI 2018).
-
-• Corina Florescu, Cornelia Caragea. “PositionRank: An Unsupervised Approach to Keyphrase Extraction from Scholarly Documents.” In: Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL 2017).
-
-• Corina Florescu, Cornelia Caragea. “A Position-Biased PageRank Algorithm for Keyphrase Extraction.” In: Proceedings of the 31st American Association for Artificial Intelligence (AAAI 2017).
-
-• Corina Florescu, Cornelia Caragea. “A New Scheme for Scoring Phrases in Unsupervised Keyphrase Extraction.” In: Proceedings of the 39th European Conference on Information Retrieval (ECIR 2017).
-
-
-CERTIFICATIONS
-•	Oracle Academy:  Database Design and Programming with SQL, 2009
-•	Oracle Academy:  Database Programming with PL/SQL, 2010
-•	Cisco Networking Academy: CCNA Exploration: Network Fundamentals, 2011
-
+PROFESSIONAL AFFILIATIONS
+Association for Computing Machinery (ACM)
+Association for the Advancement of Artificial Intelligence (AAAI)
